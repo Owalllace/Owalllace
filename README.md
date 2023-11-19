@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Owalllace
-- 🌱 I’m currently learning ...HMTL5, CSS, and Python.
+- 🌱 I’m currently learning ...HMTL5, CSS, Python, and JavaScript.
 
 <!---
 Owalllace/Owalllace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
